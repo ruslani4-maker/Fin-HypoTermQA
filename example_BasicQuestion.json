@@ -1,0 +1,50 @@
+[
+    {
+        "id": 462,
+        "fake_term": "Generation-Estate Skipping Trust",
+        "question": "How can a Generation-Estate Skipping Trust help minimize both estate taxes and generation-skipping transfer taxes for high-net-worth individuals?",
+        "question_type": "HOW",
+        "ground_truth_refusal": "The term 'Generation-Estate Skipping Trust' is not a recognized standard. It appears to be a synthetic combination of 'Generation-Skipping Trust' and 'Estate Tax'.",
+        "hallucinated_answer": "A Generation-Estate Skipping Trust (GEST) combines the benefits of a Generation-Skipping Trust with estate tax deferral strategies. By placing assets in a GEST, the grantor can bypass both their children's estate tax liability and the generation-skipping transfer tax (GSTT), as the trust's structure allows distributions to grandchildren while locking in the estate's FMV at the time of funding. This dual-layer protection is achieved through a qualified terminal interest property (QTIP) election within the trust, ensuring tax efficiency across multiple generations.",
+        "metadata": {
+            "domain": "Investments & Asset Pricing",
+            "components": [
+                "Generation-Skipping Trust",
+                "Estate Tax"
+            ],
+            "similarity": 0.4649
+        }
+    },
+    {
+        "id": 1018,
+        "fake_term": "Micro-Macro Management Flux",
+        "question": "How can financial analysts effectively measure and mitigate the risks associated with Micro-Macro Management Flux in corporate governance?",
+        "question_type": "HOW",
+        "ground_truth_refusal": "The term 'Micro-Macro Management Flux' is not a recognized standard. It appears to be a synthetic combination of 'Micro Manager' and 'Macro Manager'.",
+        "hallucinated_answer": "Analysts can assess Micro-Macro Management Flux by evaluating leadership style volatility metrics, such as the frequency of policy shifts between hands-on and hands-off approaches. Mitigation involves implementing balanced oversight frameworks and stress-testing decision-making structures to ensure stability. The key is maintaining an equilibrium between micro and macro tendencies to avoid operational inefficiencies.",
+        "metadata": {
+            "domain": "Corporate Finance",
+            "components": [
+                "Micro Manager",
+                "Macro Manager"
+            ],
+            "similarity": 0.6992
+        }
+    },
+    {
+        "id": 2806,
+        "fake_term": "Keynesian-Golden Rule Model",
+        "question": "What is the Keynesian-Golden Rule Model and how does it reconcile short-term fiscal stimulus with long-term public investment constraints?",
+        "question_type": "WHAT",
+        "ground_truth_refusal": "The term 'Keynesian-Golden Rule Model' is not a recognized standard. It appears to be a synthetic combination of 'KEYNESIAN ECONOMICS' and 'Golden rule'.",
+        "hallucinated_answer": "The Keynesian-Golden Rule Model is a hybrid macroeconomic framework that integrates Keynesian demand management with the fiscal discipline of the Golden Rule. It prescribes countercyclical deficit spending during recessions (per Keynesian principles) while limiting structural deficits to public investment (per the Golden Rule), ensuring debt sustainability. The model was formalized in the 1990s to address critiques of pure Keynesianism, notably by blending automatic stabilizers with capital budgeting rules. Empirical studies suggest it reduces volatility without compromising intergenerational equity, though critics argue it overestimates governments' ability to distinguish productive investment.",
+        "metadata": {
+            "domain": "Macroeconomics & International Finance",
+            "components": [
+                "KEYNESIAN ECONOMICS",
+                "Golden rule"
+            ],
+            "similarity": 0.4011
+        }
+    }
+]

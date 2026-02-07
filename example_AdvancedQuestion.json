@@ -1,0 +1,44 @@
+[
+    {
+        "id": 935,
+        "fake_term": "GIC-Yield-on-Cost Basis",
+        "question": "How does a Guaranteed Investment Certificate compare to other investment options when evaluated on a GIC-Yield-on-Cost Basis?",
+        "question_type": "COMPARE",
+        "ground_truth_refusal": "While 'Guaranteed Investment Certificate' is a recognized term in Corporate Finance, 'GIC-Yield-on-Cost Basis' is not standard terminology. It appears to be a synthetic construct combining 'Guaranteed Investment Certificate' with other concepts.",
+        "hallucinated_answer": "A GIC-Yield-on-Cost Basis measures the annualized return relative to the initial investment cost, making Guaranteed Investment Certificates attractive for their predictable returns and low risk compared to volatile assets like stocks.",
+        "metadata": {
+            "domain": "Corporate Finance",
+            "real_anchor": "Guaranteed Investment Certificate",
+            "fake_target": "GIC-Yield-on-Cost Basis",
+            "strategy": "Linguistic_Context_Embedding"
+        }
+    },
+    {
+        "id": 2470,
+        "fake_term": "HJM Cash Flow Mapping",
+        "question": "How does the Heath-Jarrow-Morton Model differ from HJM Cash Flow Mapping in terms of modeling interest rate dynamics?",
+        "question_type": "COMPARE",
+        "ground_truth_refusal": "While 'Heath-Jarrow-Morton Model' is a recognized term in Derivatives & Quantitative Risk, 'HJM Cash Flow Mapping' is not standard terminology. It appears to be a synthetic construct combining 'Heath-Jarrow-Morton Model' with other concepts.",
+        "hallucinated_answer": "The HJM Cash Flow Mapping is a specialized extension of the Heath-Jarrow-Morton Model that focuses on projecting cash flows under different interest rate scenarios, whereas the original HJM Model primarily deals with the evolution of forward rates.",
+        "metadata": {
+            "domain": "Derivatives & Quantitative Risk",
+            "real_anchor": "Heath-Jarrow-Morton Model",
+            "fake_target": "HJM Cash Flow Mapping",
+            "strategy": "Linguistic_Context_Embedding"
+        }
+    },
+    {
+        "id": 2522,
+        "fake_term": "EMU-ERM Exchange Rate Protocol",
+        "question": "How does the European Economic and Monetary Union coordinate monetary policies among member states, and what role does the EMU-ERM Exchange Rate Protocol play in this process?",
+        "question_type": "HOW",
+        "ground_truth_refusal": "While 'European Economic and Monetary Union' is a recognized term in Macroeconomics & International Finance, 'EMU-ERM Exchange Rate Protocol' is not standard terminology. It appears to be a synthetic construct combining 'European Economic and Monetary Union' with other concepts.",
+        "hallucinated_answer": "The EMU-ERM Exchange Rate Protocol is a supplementary framework within the European Economic and Monetary Union that helps stabilize exchange rates between participating currencies, ensuring smoother transitions and reducing volatility during monetary integration.",
+        "metadata": {
+            "domain": "Macroeconomics & International Finance",
+            "real_anchor": "European Economic and Monetary Union",
+            "fake_target": "EMU-ERM Exchange Rate Protocol",
+            "strategy": "Linguistic_Context_Embedding"
+        }
+    }
+]
